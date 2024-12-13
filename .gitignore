@@ -1,0 +1,6 @@
+.DS_store
+
+*.txt
+
+# comment
+# *.txt => that means all the file that have .txt extension will be ignored 
